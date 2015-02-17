@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-    <com.vengal.Selfie_display.ZoomImageView
+    <com.assesment.vengal.selfie_display.ZoomImageView
         android:id="@+id/full_image_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
